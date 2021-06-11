@@ -1,4 +1,4 @@
-# vue-fresh-copy
+# Vue Todo App
 
 ## Project setup
 ```
